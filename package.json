@@ -1,0 +1,30 @@
+{
+  "name": "beta-api",
+  "version": "1.0.0",
+  "description": "beta-apis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ERLANRAHMAT/beta-apii.git"
+  },
+  "keywords": [
+    "LANN"
+  ],
+  "author": "LannGanz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ERLANRAHMAT/beta-apii/issues"
+  },
+  "homepage": "https://github.com/ERLANRAHMAT/beta-apii#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.10",
+    "qs": "^6.10.1"
+  },
+  "directories": {
+    "lib": "lib"
+  }
+}
