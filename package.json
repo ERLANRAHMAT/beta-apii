@@ -1,6 +1,6 @@
 {
   "name": "beta-api",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "beta-apis",
   "main": "index.js",
   "scripts": {
